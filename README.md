@@ -23,13 +23,13 @@ Ensure all files are placed within the **same folder** for proper execution.
 ---
 
 ### Prediction 1 
-![Dog](images/dog.png)  
+![Dog](images/dogs.jpg)  
 
 ### Prediction 2  
-![Sheep](images/sheep.png)  
+![Sheep](images/sheep.jpg)  
 
 ### Prediction 3
-![Lion](images/lion.png)
+![Lion](images/lion.webp)
 
 ## ⚙️ Installation and Setup  
 
